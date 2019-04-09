@@ -1,0 +1,12 @@
+.vscode/
+
+Pipfile.lock
+
+*.pyc
+**/__pycache__
+
+
+
+static/
+media/
+app.db
