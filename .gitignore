@@ -6,8 +6,6 @@ Pipfile.lock
 **/__pycache__
 
 
-
-static/
 media/
 app.db
-app/static/
+app/static/mdbootstrap
